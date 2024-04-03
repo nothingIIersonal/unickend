@@ -1,0 +1,6 @@
+[submodule "third_party/spdlog"]
+	path = third_party/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "third_party/nettools"]
+	path = third_party/nettools
+	url = https://github.com/nothingIIersonal/nettools.git
